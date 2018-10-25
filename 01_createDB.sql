@@ -1,4 +1,4 @@
-IF DB_ID('JustForGiggles_Test') IS NOT NULL
+IF DB_ID('JustForGiggles_Test') IS NULL
 Create Database JustForGiggles_Test
 ;
 
