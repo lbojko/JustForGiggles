@@ -3,6 +3,13 @@ IF (SELECT COUNT(*) FROM sys.objects where name = 'fn_remove_letters' and SCHEMA
 ;
 GO
 
+
+/* 
+Created LB      20181025
+Purpose:        To Remove Letters from strings in order to be able to insert into an int field
+*/
+
+
 CREATE function dbo.fn_remove_letters   ( 
                                         @STRINGINPUT nvarchar(max) NULL
                                         )
