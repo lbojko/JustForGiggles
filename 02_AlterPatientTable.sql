@@ -1,7 +1,9 @@
 /*
 CREATED LB  20181025
-Purpose:    Request made iin user story x to 
+Purpose:    Request made iin user story x to s
 */
+-- Select rows from a Table or View '[TableOrViewName]' in schema '[SchemaName]' in database '[DatabaseName]'
+SELECT * 
 
 IF (Select COUNT(*) From SYS.COLUMNS Where Object_ID = OBJECT_ID('dbo.patient') and name = 'First_Name') = 0
     Alter Table Patient Add First_Name Nvarchar(200) NULL
