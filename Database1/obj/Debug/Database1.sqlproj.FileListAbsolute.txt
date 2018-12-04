@@ -1,0 +1,6 @@
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1\bin\Debug\Database1.dacpac
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1\bin\Debug\Database1.dll
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1\bin\Debug\Database1.pdb
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1\obj\Debug\Database1.sqlprojAssemblyReference.cache
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1\obj\Debug\Database1.dll
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1\obj\Debug\Database1.pdb
