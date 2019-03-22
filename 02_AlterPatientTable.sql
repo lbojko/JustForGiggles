@@ -1,3 +1,8 @@
+/*
+CREATED LB  20181025
+Purpose:    Request made iin user story x to s
+*/
+
 IF (Select COUNT(*) From SYS.COLUMNS Where Object_ID = OBJECT_ID('dbo.patient') and name = 'First_Name') = 0
     Alter Table Patient Add First_Name Nvarchar(200) NULL
 ELSE 
