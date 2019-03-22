@@ -1,0 +1,13 @@
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1Testing\bin\Debug\Database1Testing.dll.config
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1Testing\bin\Debug\Database1Testing.dll
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1Testing\bin\Debug\Database1Testing.pdb
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1Testing\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1Testing\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1Testing\obj\Debug\Database1Testing.csprojAssemblyReference.cache
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1Testing\obj\Debug\Database1Testing.csproj.CoreCompileInputs.cache
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1Testing\obj\Debug\Database1Testing.csproj.CopyComplete
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1Testing\obj\Debug\Database1Testing.dll
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1Testing\obj\Debug\Database1Testing.pdb
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1Testing\obj\Debug\Database1Testing.fn_remove_letters.resources
+C:\Users\lbojk\Source\Repos\JustForGiggles\Database1Testing\obj\Debug\Database1Testing.csproj.GenerateResource.cache
